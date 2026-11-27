@@ -6,3 +6,6 @@ Celui-ci est particulièrement conçu pour décharger via une interface SPI ou I
 À noter qu'il existe 2 autres versions; à savoir:
 * [uM-FPU V2](Documentations/uM-FPU-V2-Datasheet.pdf) qui réalise également les opérations flottantes sur 32 bits
 * [uM-FPU64](Documentations/uM-FPU64-Datasheet.pdf) qui réalise les opérations flottantes sur 32 et 64 bits
+
+## 📎 Documentations
+* [Liste des instructions](Documentations/uM-FPU-V3_1-Instruction-Set.pdf)  
