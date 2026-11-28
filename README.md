@@ -11,7 +11,7 @@ Celui-ci est particulièrement conçu pour décharger via une interface SPI ou I
 * [Liste des 256 instructions](Documentations/uM-FPU-V3_1-Instruction-Set.pdf) de l'uM-FPU V3.1
 * *À compléter*...
 
-## 🛄 De quels µC sont-ils à l'origine ?
+## 🎒 De quels µC sont-ils à l'origine ?
 * Les µC uM-FPU V3 et V3.1 (18 broches) sont basés sur un contrôleur de signal numérique 16 bits Microchip dsPIC30F (plus précisément le [dsPIC30F3012](https://ww1.microchip.com/downloads/en/DeviceDoc/70139b.pdf))
 
 * Les µC uM-FPU V1 et V2 (8 broches) sont basés sur un microcontrôleur 8 bits Microchip PIC12F (tel que le [PIC12F683](https://ww1.microchip.com/downloads/en/devicedoc/41211d_.pdf))
