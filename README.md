@@ -8,11 +8,12 @@ Celui-ci est particulièrement conçu pour décharger via une interface SPI ou I
 * [uM-FPU64](Documentations/uM-FPU64-Datasheet.pdf) qui réalise les opérations flottantes sur 32 et 64 bits
 
 ## 📎 Documentations
-* [Liste des instructions](Documentations/uM-FPU-V3_1-Instruction-Set.pdf)
+* [Liste des 256 instructions](Documentations/uM-FPU-V3_1-Instruction-Set.pdf) de l'uM-FPU V3.1
+* *À compléter*...
 
-## 📎 De quels µC sont-ils à l'origine
-* uM-FPU V3 et V3.1 (18 broches) : Ceux-ci sont basés sur un contrôleur de signal numérique 16 bits Microchip dsPIC30F (plus précisément le dsPIC30F3012 en boîtier PDIP-18 ou SOIC-18)
+## 🛄 De quels µC sont-ils à l'origine ?
+* Les µC uM-FPU V3 et V3.1 (18 broches) sont basés sur un contrôleur de signal numérique 16 bits Microchip dsPIC30F (plus précisément le [dsPIC30F3012](https://ww1.microchip.com/downloads/en/DeviceDoc/70139b.pdf))
 
-* uM-FPU V1 et V2 (8 broches) : Ceux-ci sont basés sur un microcontrôleur 8 bits Microchip PIC12F (tel que le PIC12F683) en boîtier DIP-8
+* Les µC uM-FPU V1 et V2 (8 broches) sont basés sur un microcontrôleur 8 bits Microchip PIC12F (tel que le [PIC12F683](https://ww1.microchip.com/downloads/en/devicedoc/41211d_.pdf))
 
-* uM-FPU64 (28 broches) : Celui-ci est basé sur un contrôleur 16 bits Microchip dsPIC33F (ou PIC24H) en boîtier 28 broches, offrant une capacité de calcul 64 bits double précision et des périphériques étendus
+* Le µC uM-FPU64 (28 broches) est basé sur un contrôleur 16 bits Microchip [dsPIC33F](https://ww1.microchip.com/downloads/en/devicedoc/70165d.pdf) (ou [PIC24H](https://ww1.microchip.com/downloads/en/DeviceDoc/70175d.pdf)), offrant une capacité de calcul 64 bits double précision et des périphériques étendus
